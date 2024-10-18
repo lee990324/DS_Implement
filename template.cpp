@@ -43,18 +43,3 @@ int main ()
 	cout << calcu2.GetAdd() << endl;
 }	
 
-/*
-template <class T>
-class Test
-{
-	public:
-		Test();
-		~Test();
-
-		T Data(T);
-};
-
-template <T>
-Test<T>::Test()
-{cout<<"Constructor, allocate..." << endl;}
-*/
